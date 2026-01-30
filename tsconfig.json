@@ -3,6 +3,7 @@
     "module": "CommonJS",
     "moduleResolution": "Node",
     "target": "ES2020",
+    "typeRoots": ["./src/types", "./node_modules/@types"],
     "esModuleInterop": true
   }
 }
